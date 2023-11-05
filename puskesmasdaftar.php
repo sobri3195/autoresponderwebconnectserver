@@ -19,9 +19,9 @@ use DateTime;
 
 // Kredensial database
 $host = 'localhost:3306';
-$dbname = 'wtew2999_regis';
-$username = 'wtew2999_regisuser';
-$password = 'maulana3195';
+$dbname = 'regis';
+$username = 'user';
+$password = '123';
 $dsn = "mysql:host=$host;dbname=$dbname;charset=UTF8";
 
 try {
